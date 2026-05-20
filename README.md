@@ -1,8 +1,18 @@
-# Sai Krishna Bolla
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055AA,100:083D7A&height=200&section=header&text=Sai%20Krishna%20Bolla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founding%20team%20at%20Ask%20Nomi%20%C2%B7%20saibolla.com&descSize=18&descAlignY=66&descColor=cfe1ff" alt="Sai Krishna Bolla">
+</p>
 
 Founding team at **Ask Nomi**, building an AI health platform for women with chronic conditions, with on-device LLM inference, semantic memory, and Apple Health integration.
 
 I build end-to-end: 0→1 product, infra, mobile, web, ML wiring. Most of what I work on is closed-source or behind a login. This profile is just the public code surface. The full body of work lives at **[saibolla.com](https://www.saibolla.com)**.
+
+### Stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,react,nextjs,tailwind,supabase,vercel,py,postgres&theme=light" alt="Stack">
+  </a>
+</p>
 
 ---
 
