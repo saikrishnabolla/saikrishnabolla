@@ -10,7 +10,7 @@ I build end-to-end: 0→1 product, infra, mobile, web, ML wiring. Most of what I
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,react,nextjs,tailwind,supabase,vercel,py,postgres&theme=light" alt="Stack">
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,react,nextjs,tailwind,supabase,vercel,py,openai,pytorch&theme=light" alt="Stack">
   </a>
 </p>
 
