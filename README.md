@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055AA,100:083D7A&height=220&section=header&text=Sai%20Krishna%20Bolla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=3X%20Founder%20%26%20Product%20Engineer&descSize=18&descAlignY=55&descColor=cfe1ff" alt="Sai Krishna Bolla">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055AA,100:083D7A&height=220&section=header&text=Sai%20Krishna%20Bolla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=3X%20Founder%20%C2%B7%20Product%20Engineer&descSize=18&descAlignY=55&descColor=cfe1ff" alt="Sai Krishna Bolla">
 </p>
 
 Founding team at **Ask Nomi**, building an AI health platform for women with chronic conditions, with on-device LLM inference, semantic memory, and Apple Health integration.
